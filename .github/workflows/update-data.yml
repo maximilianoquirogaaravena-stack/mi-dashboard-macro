@@ -30,3 +30,11 @@ jobs:
           git add data/
           git commit -m "Actualización automática de datos $(date +'%Y-%m-%d')" || echo "Sin cambios"
           git push
+
+      - name: Checkout repo
+        uses: actions/checkout@v5
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+
+        

@@ -1,4 +1,5 @@
 fecha,valor,idVariable,variable
+2026-09-02,50492.0,1,reservas_internacionales
 2026-09-01,50205.0,1,reservas_internacionales
 2026-08-31,48259.0,1,reservas_internacionales
 2026-08-28,49793.0,1,reservas_internacionales
@@ -1615,6 +1616,7 @@ fecha,valor,idVariable,variable
 2020-01-06,44904.0,1,reservas_internacionales
 2020-01-03,44872.0,1,reservas_internacionales
 2020-01-02,44839.0,1,reservas_internacionales
+2026-09-04,1507.3745,5,tc_mayorista
 2026-09-03,1508.2111,5,tc_mayorista
 2026-09-02,1511.6306,5,tc_mayorista
 2026-09-01,1512.7304,5,tc_mayorista
@@ -3233,6 +3235,7 @@ fecha,valor,idVariable,variable
 2020-01-06,59.819,5,tc_mayorista
 2020-01-03,59.8335,5,tc_mayorista
 2020-01-02,59.8518,5,tc_mayorista
+2026-09-02,46347290.0,15,base_monetaria
 2026-09-01,47216078.0,15,base_monetaria
 2026-08-31,47451537.0,15,base_monetaria
 2026-08-28,45776921.0,15,base_monetaria
@@ -4928,12 +4931,13 @@ fecha,valor,idVariable,variable
 2020-03-31,3.3,27,inflacion_mensual
 2020-02-29,2.0,27,inflacion_mensual
 2020-01-31,2.3,27,inflacion_mensual
-2026-08-31,95304874.0,109,m2
+2026-09-01,93871792.0,109,m2
+2026-08-31,95456484.0,109,m2
 2026-08-28,94089213.0,109,m2
-2026-08-27,92934076.0,109,m2
-2026-08-26,92376267.0,109,m2
+2026-08-27,92914086.0,109,m2
+2026-08-26,92377954.0,109,m2
 2026-08-25,92376696.0,109,m2
-2026-08-24,91050119.0,109,m2
+2026-08-24,91051061.0,109,m2
 2026-08-21,90795798.0,109,m2
 2026-08-20,90951146.0,109,m2
 2026-08-19,89265087.0,109,m2

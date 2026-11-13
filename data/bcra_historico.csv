@@ -1,4 +1,6 @@
 fecha,valor,idVariable,variable
+2026-11-11,49336.0,1,reservas_internacionales
+2026-11-05,49586.0,1,reservas_internacionales
 2026-11-04,50437.0,1,reservas_internacionales
 2026-11-03,50298.0,1,reservas_internacionales
 2026-11-02,50439.0,1,reservas_internacionales
@@ -1660,6 +1662,8 @@ fecha,valor,idVariable,variable
 2020-01-06,44904.0,1,reservas_internacionales
 2020-01-03,44872.0,1,reservas_internacionales
 2020-01-02,44839.0,1,reservas_internacionales
+2026-11-13,1547.0336,5,tc_mayorista
+2026-11-12,1544.432,5,tc_mayorista
 2026-11-11,1547.9128,5,tc_mayorista
 2026-11-05,1545.3974,5,tc_mayorista
 2026-11-04,1548.4941,5,tc_mayorista
@@ -3323,6 +3327,8 @@ fecha,valor,idVariable,variable
 2020-01-06,59.819,5,tc_mayorista
 2020-01-03,59.8335,5,tc_mayorista
 2020-01-02,59.8518,5,tc_mayorista
+2026-11-11,51603144.0,15,base_monetaria
+2026-11-05,49662576.0,15,base_monetaria
 2026-11-04,46845363.0,15,base_monetaria
 2026-11-03,46998823.0,15,base_monetaria
 2026-11-02,47241558.0,15,base_monetaria
@@ -4984,6 +4990,7 @@ fecha,valor,idVariable,variable
 2020-01-06,1721191.0,15,base_monetaria
 2020-01-03,1834617.0,15,base_monetaria
 2020-01-02,1877287.0,15,base_monetaria
+2026-10-31,2.2,27,inflacion_mensual
 2026-09-30,1.9,27,inflacion_mensual
 2026-08-31,1.7,27,inflacion_mensual
 2026-07-31,2.1,27,inflacion_mensual
@@ -5065,12 +5072,14 @@ fecha,valor,idVariable,variable
 2020-03-31,3.3,27,inflacion_mensual
 2020-02-29,2.0,27,inflacion_mensual
 2020-01-31,2.3,27,inflacion_mensual
-2026-11-03,94562473.0,109,m2
-2026-11-02,95373197.0,109,m2
-2026-10-30,96440959.0,109,m2
-2026-10-29,96189066.0,109,m2
-2026-10-28,93549116.0,109,m2
-2026-10-27,92145949.0,109,m2
+2026-11-05,95833014.0,109,m2
+2026-11-04,94921977.0,109,m2
+2026-11-03,94567349.0,109,m2
+2026-11-02,95372186.0,109,m2
+2026-10-30,96432055.0,109,m2
+2026-10-29,96190905.0,109,m2
+2026-10-28,93545792.0,109,m2
+2026-10-27,92149383.0,109,m2
 2026-10-26,92239180.0,109,m2
 2026-10-23,91801050.0,109,m2
 2026-10-22,92209618.0,109,m2
